@@ -1,0 +1,121 @@
+{
+  "name": "BLUE IMPERIAL — LITE+ (Donation Ready)",
+  "description": "Minimalist premium blue server with Donate Zone and Auto Roles.",
+  "channels": [
+    {
+      "type": 4,
+      "name": "🔷 1 | Welcome Zone",
+      "channels": [
+        { "type": 0, "name": "👋・welcome" },
+        { "type": 0, "name": "🔐・verify" },
+        { "type": 0, "name": "📢・announcements" }
+      ]
+    },
+    {
+      "type": 4,
+      "name": "🔹 2 | Information",
+      "channels": [
+        { "type": 0, "name": "📘・rules" },
+        { "type": 0, "name": "📗・faq" },
+        { "type": 0, "name": "📁・server-info" },
+        { "type": 0, "name": "🔗・important-links" }
+      ]
+    },
+    {
+      "type": 4,
+      "name": "🔹 3 | SUPPORT THE CREATOR (DONATE ZONE)",
+      "channels": [
+        { "type": 0, "name": "💙・donate-here" },
+        { "type": 0, "name": "💠・donator-perks" },
+        { "type": 0, "name": "🎉・donation-alerts" }
+      ]
+    },
+    {
+      "type": 4,
+      "name": "🔹 4 | Community Hub",
+      "channels": [
+        { "type": 0, "name": "💬・general-chat" },
+        { "type": 0, "name": "🎭・introductions" },
+        { "type": 0, "name": "🎉・events" },
+        { "type": 0, "name": "🎁・giveaways" },
+        { "type": 0, "name": "🤖・bot-commands" }
+      ]
+    },
+    {
+      "type": 4,
+      "name": "🔹 5 | Media Center",
+      "channels": [
+        { "type": 0, "name": "📸・photos" },
+        { "type": 0, "name": "🎥・videos" },
+        { "type": 0, "name": "🖼️・art" },
+        { "type": 0, "name": "🌌・blue-wallpapers" }
+      ]
+    },
+    {
+      "type": 4,
+      "name": "🔹 6 | Support Center",
+      "channels": [
+        { "type": 0, "name": "❓・help" },
+        { "type": 0, "name": "🐞・bug-report" },
+        { "type": 0, "name": "🚨・report-user" },
+        { "type": 0, "name": "🎫・open-ticket" }
+      ]
+    },
+    {
+      "type": 4,
+      "name": "🔹 7 | Staff Area",
+      "channels": [
+        { "type": 0, "name": "🛠️・owner-notes" },
+        { "type": 0, "name": "📂・log-channel" },
+        { "type": 0, "name": "🔍・security-log" }
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "👑 Owner",
+      "color": 1973790,
+      "permissions": "8"
+    },
+    {
+      "name": "⚡ Admin",
+      "color": 1918412,
+      "permissions": "268435456"
+    },
+    {
+      "name": "🛡️ Moderator",
+      "color": 2459868,
+      "permissions": "268435456"
+    },
+    {
+      "name": "🌌 Blue Member",
+      "color": 3908346,
+      "permissions": "0"
+    },
+    {
+      "name": "💎 Booster",
+      "color": 961855,
+      "permissions": "0"
+    },
+    {
+      "name": "🎁 Donator",
+      "color": 6348350,
+      "permissions": "0"
+    },
+    {
+      "name": "🌠 VIP Donator",
+      "color": 3724543,
+      "permissions": "0"
+    },
+    {
+      "name": "🤖 Bot",
+      "color": 808233,
+      "permissions": "268435456"
+    },
+    {
+      "name": "🔔 Notifications",
+      "color": 3724543,
+      "permissions": "0"
+    }
+  ]
+}
