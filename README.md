@@ -30,3 +30,72 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrevoltexee&" alt="imrevoltexee" /></p>
 
+# API-REV
+
+Open-source REST API platform built with Node.js and Express.
+
+## Features
+
+* REST API endpoints
+* JSON responses
+* Easy integration
+* Open-source
+* Developer-friendly
+
+## Installation
+
+```bash
+git clone https://github.com/ImRevoltexee/API-REV.git
+
+cd API-REV
+
+npm install
+
+npm start
+```
+
+## Usage
+
+Start the server:
+
+```bash
+npm start
+```
+
+Default URL:
+
+```text
+http://localhost:3000
+```
+
+## Example Response
+
+```json
+{
+  "status": true,
+  "creator": "Revolt",
+  "message": "API is running successfully"
+}
+```
+
+## Roadmap
+
+* Improve API documentation
+* Add authentication system
+* Add rate limiting
+* Improve performance
+* Expand available endpoints
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+## License
+
+MIT License
+
+## Maintainer
+
+Revolt
+
+GitHub: https://github.com/ImRevoltexee
