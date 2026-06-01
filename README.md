@@ -1,74 +1,84 @@
-<h1 align="center">Hi 👋, I'm Revolt</h1>
-<h3 align="center">Just Someone Who Loves Programming World</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrevoltexee&label=Profile%20views&color=0e75b6&style=flat" alt="imrevoltexee" /> </p>
+# 🚀 API-REV
 
-- 🤔 I’m looking for help with **www.mrrevolt.my.id/**
+### Open Source REST API Platform for Developers
 
-- 👨‍💻 All of my projects are available at [www.revolt.my.id](www.revolt.my.id)
+Fast • Simple • Reliable • Open Source
 
-- 📝 I regularly write articles on [https://revolttermux.blogspot.com](https://revolttermux.blogspot.com)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-Framework-black?style=for-the-badge\&logo=express)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-- 📫 How to reach me **revoltexee@gmail.com**
+</div>
 
-- ⚡ Fun fact **many people say I look like Jefri Nichol**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/im.revolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.revolt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mrrevolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mrrevolt" height="30" width="40" /></a>
-</p>
+## 📖 About
 
+API-REV is an open-source REST API platform built with Node.js and Express.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Revolt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Revolt" /></a></p><br><br>
+The project provides a collection of API endpoints and automation utilities designed to help developers build applications faster and simplify common development workflows.
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrevoltexee&show_icons=true&locale=en&layout=compact" alt="imrevoltexee" /></p>
+## ✨ Features
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrevoltexee&show_icons=true&locale=en" alt="imrevoltexee" /></p>
+* ⚡ Fast REST API
+* 🔧 Developer Friendly
+* 🌐 JSON Response Format
+* 🚀 Easy Integration
+* 📚 Open Source
+* 🛠 Extensible Architecture
+* 🔒 Security Improvements Ongoing
+* 📈 Continuously Maintained
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrevoltexee&" alt="imrevoltexee" /></p>
+---
 
-# API-REV
+## 🛠 Tech Stack
 
-Open-source REST API platform built with Node.js and Express.
+| Technology    | Usage            |
+| ------------- | ---------------- |
+| Node.js       | Backend Runtime  |
+| Express.js    | API Framework    |
+| Axios         | HTTP Requests    |
+| Cheerio       | Web Scraping     |
+| FFmpeg        | Media Processing |
+| Tesseract OCR | Text Recognition |
 
-## Features
+---
 
-* REST API endpoints
-* JSON responses
-* Easy integration
-* Open-source
-* Developer-friendly
+## 🚀 Quick Start
 
-## Installation
+### Clone Repository
 
 ```bash
 git clone https://github.com/ImRevoltexee/API-REV.git
-
 cd API-REV
-
-npm install
-
-npm start
 ```
 
-## Usage
+### Install Dependencies
 
-Start the server:
+```bash
+npm install
+```
+
+### Start Server
 
 ```bash
 npm start
 ```
 
-Default URL:
+Server will be available at:
 
 ```text
 http://localhost:3000
 ```
 
-## Example Response
+---
+
+## 📡 Example API Response
 
 ```json
 {
@@ -78,24 +88,84 @@ http://localhost:3000
 }
 ```
 
-## Roadmap
+---
 
-* Improve API documentation
-* Add authentication system
-* Add rate limiting
-* Improve performance
-* Expand available endpoints
+## 📂 Project Structure
 
-## Contributing
+```text
+API-REV/
+├── database/
+├── lib/
+├── public/
+├── routes/
+├── views/
+├── tmp/
+├── index.js
+├── package.json
+└── README.md
+```
 
-Pull requests are welcome. For major changes, please open an issue first.
+---
 
-## License
+## 📸 Screenshots
 
-MIT License
+### Homepage
 
-## Maintainer
+<img src="./docs/images/home.png" width="100%">
 
-Revolt
+### API Dashboard
+
+<img src="./docs/images/dashboard.png" width="100%">
+
+### Documentation
+
+<img src="./docs/images/docs.png" width="100%">
+
+---
+
+## 🎯 Roadmap
+
+* [ ] Improve API documentation
+* [ ] Authentication System
+* [ ] Rate Limiting
+* [ ] Better Error Handling
+* [ ] Monitoring Dashboard
+* [ ] Developer SDK
+* [ ] OpenAPI Specification
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Open a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Maintainer
+
+**Revolt**
 
 GitHub: https://github.com/ImRevoltexee
+
+Email: [revolt.codes@gmail.com](mailto:revolt.codes@gmail.com)
+
+---
+
+<div align="center">
+
+### ⭐ Star this repository if you find it useful
+
+Made with ❤️ by Revolt
+
+</div>
