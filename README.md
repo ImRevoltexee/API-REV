@@ -105,21 +105,6 @@ API-REV/
 └── README.md
 ```
 
----
-
-## 📸 Screenshots
-
-### Homepage
-
-<img src="./docs/images/home.png" width="100%">
-
-### API Dashboard
-
-<img src="./docs/images/dashboard.png" width="100%">
-
-### Documentation
-
-<img src="./docs/images/docs.png" width="100%">
 
 ---
 
